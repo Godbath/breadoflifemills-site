@@ -126,9 +126,9 @@ p:last-child {
   }
 
   .brand-card {
-    width: 108%;
-    max-width: none;
-  }
+  width: 116%;
+  max-width: none;
+}
 
   .hero-note {
     font-size: 0.98rem;
