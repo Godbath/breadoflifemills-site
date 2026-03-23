@@ -1,6 +1,6 @@
 :root {
-  --cream: #F7F6F5;
-  --paper: #F7F6F5;
+  --cream: #F7F6F6;
+  --paper: #F7F6F6;
   --ink: #52301f;
   --accent: #9a5b2b;
   --accent-soft: rgba(154, 91, 43, 0.14);
@@ -18,7 +18,7 @@ html {
 
 body {
   margin: 0;
-  background: #F7F6F5;
+  background: #F7F6F6;
   color: var(--ink);
   font-family: 'Inter', system-ui, sans-serif;
 }
