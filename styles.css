@@ -85,8 +85,8 @@ body {
   width: min(100%, 860px);
   margin: 0 auto;
   background: #FDFBF9;
-  border: none;
-  border-radius: 0;
+  border: 1px solid rgba(82, 48, 31, 0.08);
+  border-radius: 18px;
   box-shadow: none;
   padding: clamp(1.5rem, 3vw, 3rem);
 }
