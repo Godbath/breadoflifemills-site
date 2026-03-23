@@ -41,7 +41,7 @@ body {
 }
 
 .brand-card {
-  width: min(100%, 980px);
+  width: min(100%, 900px);
   height: auto;
   display: block;
   filter: none;
