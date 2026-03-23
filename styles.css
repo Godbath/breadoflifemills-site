@@ -84,12 +84,11 @@ body {
 .content-wrap {
   width: min(100%, 860px);
   margin: 0 auto;
-  background: rgba(255, 255, 255, 0.62);
-  border: 1px solid var(--line);
-  border-radius: 28px;
-  box-shadow: var(--shadow);
+  background: #FDFBF9;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
   padding: clamp(1.5rem, 3vw, 3rem);
-  backdrop-filter: blur(8px);
 }
 
 .eyebrow {
