@@ -43,7 +43,7 @@ body {
   width: min(100%, 980px);
   height: auto;
   display: block;
-  filter: drop-shadow(0 28px 45px rgba(82, 48, 31, 0.08));
+  filter: none;
 }
 
 .hero-note {
