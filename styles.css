@@ -14,13 +14,15 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
-  background: #FCFBFA;
+  background: #YOURCOLOR;
   color: var(--ink);
   font-family: 'Inter', system-ui, sans-serif;
+  overflow-x: hidden;
 }
 
 .hero {
